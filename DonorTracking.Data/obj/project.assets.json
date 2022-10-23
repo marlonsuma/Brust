@@ -3027,11 +3027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\VisualStudio\\Brust Milk App\\DT_2\\DonorTracking.Data\\DonorTracking.Data.csproj",
+      "projectUniqueName": "C:\\Projects\\VisualStudio\\Brust Milk App\\Brust\\DonorTracking.Data\\DonorTracking.Data.csproj",
       "projectName": "DonorTracking.Data",
-      "projectPath": "C:\\Projects\\VisualStudio\\Brust Milk App\\DT_2\\DonorTracking.Data\\DonorTracking.Data.csproj",
+      "projectPath": "C:\\Projects\\VisualStudio\\Brust Milk App\\Brust\\DonorTracking.Data\\DonorTracking.Data.csproj",
       "packagesPath": "C:\\Users\\Marlon\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\VisualStudio\\Brust Milk App\\DT_2\\DonorTracking.Data\\obj\\",
+      "outputPath": "C:\\Projects\\VisualStudio\\Brust Milk App\\Brust\\DonorTracking.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marlon\\AppData\\Roaming\\NuGet\\NuGet.Config",

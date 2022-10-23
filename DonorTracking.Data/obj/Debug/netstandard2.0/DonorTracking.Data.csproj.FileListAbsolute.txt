@@ -17,3 +17,12 @@ C:\Dev\project\Brust Milk App\DT\DonorTracking.Data\obj\Debug\netstandard2.0\Don
 C:\Dev\project\Brust Milk App\DT\DonorTracking.Data\obj\Debug\netstandard2.0\DonorTracking.Data.csproj.CoreCompileInputs.cache
 C:\Dev\project\Brust Milk App\DT\DonorTracking.Data\obj\Debug\netstandard2.0\DonorTracking.Data.dll
 C:\Dev\project\Brust Milk App\DT\DonorTracking.Data\obj\Debug\netstandard2.0\DonorTracking.Data.pdb
+C:\Projects\VisualStudio\Brust Milk App\Brust\DonorTracking.Data\bin\Debug\netstandard2.0\DonorTracking.Data.deps.json
+C:\Projects\VisualStudio\Brust Milk App\Brust\DonorTracking.Data\bin\Debug\netstandard2.0\DonorTracking.Data.dll
+C:\Projects\VisualStudio\Brust Milk App\Brust\DonorTracking.Data\bin\Debug\netstandard2.0\DonorTracking.Data.pdb
+C:\Projects\VisualStudio\Brust Milk App\Brust\DonorTracking.Data\obj\Debug\netstandard2.0\DonorTracking.Data.csprojAssemblyReference.cache
+C:\Projects\VisualStudio\Brust Milk App\Brust\DonorTracking.Data\obj\Debug\netstandard2.0\DonorTracking.Data.AssemblyInfoInputs.cache
+C:\Projects\VisualStudio\Brust Milk App\Brust\DonorTracking.Data\obj\Debug\netstandard2.0\DonorTracking.Data.AssemblyInfo.cs
+C:\Projects\VisualStudio\Brust Milk App\Brust\DonorTracking.Data\obj\Debug\netstandard2.0\DonorTracking.Data.csproj.CoreCompileInputs.cache
+C:\Projects\VisualStudio\Brust Milk App\Brust\DonorTracking.Data\obj\Debug\netstandard2.0\DonorTracking.Data.dll
+C:\Projects\VisualStudio\Brust Milk App\Brust\DonorTracking.Data\obj\Debug\netstandard2.0\DonorTracking.Data.pdb
