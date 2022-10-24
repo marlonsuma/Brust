@@ -33,19 +33,19 @@
             font-weight: bold;
         }
 
-        .control input, #Submit {
+        /*.control input, #Submit {
             width: 250px;
             margin: 5px 0;
-        }
+        }*/
 
     </style>
 </head>
 <body>
-<div id="pageHeader">
-    <img id="logo" src="/images/Ni-Q Logo.png" />
-    <h1>Donor Tracking System</h1>
-    <h3>Login</h3>
-</div>
+    <div id="pageHeader">
+        <img id="logo" src="/images/Ni-Q Logo.png" />
+        <h1>Donor Tracking System</h1>
+        <h3>Login</h3>
+    </div>
     <form id="LoginForm" runat="server">
         <div class="controlContainer">
             <div class="control">
@@ -53,13 +53,13 @@
                 <asp:TextBox ID="txtUsername" runat="server" />
             </div>
             <div class="control">
-                <label for="txtPassword"> Password</label>
+                <label for="txtPassword">Password</label>
                 <asp:TextBox ID="txtPassword" TextMode="Password" runat="server" />
             </div>
-            
+
             <asp:Button ID="Submit" Text="Login" OnClick="Submit_Click" runat="server" />
         </div>
-        <asp:Label ID="ResultMessage" runat="server"  />
+        <asp:Label ID="ResultMessage" runat="server" />
     </form>
 </body>
 </html>

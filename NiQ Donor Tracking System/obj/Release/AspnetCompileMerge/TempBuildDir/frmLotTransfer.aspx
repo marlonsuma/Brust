@@ -33,6 +33,7 @@
             <asp:TextBox ID="txtStartingPouchNumber" runat="server" Font-Names="Arial" Font-Size="10pt" MaxLength="5" Style="z-index: 2;  position: absolute; top: 329px; left: 285px; width: 78px;" TabIndex="2" Visible="False">1</asp:TextBox>
             <asp:Label ID="lblQuantity" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="10pt" Style="z-index: 1; position: absolute; top: 310px; left: 405px; width: 140px;" Text="Pouch Quantity:" Visible="False"></asp:Label>
             <asp:TextBox ID="txtQuantity" runat="server" Font-Names="Arial" Font-Size="10pt" MaxLength="5" Style="z-index: 2; position: absolute; top: 329px; left: 405px; width: 78px;" TabIndex="2" Visible="False">1</asp:TextBox>
+         
 
             <asp:Label ID="lblExpDateTitle" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="10pt" Style="z-index: 1; left: 45px; position: absolute; top: 370px; width: 108px;" Text="Expiration Date:" Visible="False"></asp:Label>
             <asp:Label ID="lblExpDate" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="10pt" Style="z-index: 1; left: 45px; position: absolute; top: 392px; width: 108px;" Text="YYMMDD" ForeColor="#3399FF" Visible="False"></asp:Label>
