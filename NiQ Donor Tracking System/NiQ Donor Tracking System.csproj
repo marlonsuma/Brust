@@ -514,6 +514,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\NiQ.pubxml" />
     <None Include="Properties\PublishProfiles\Publish.pubxml" />
     <Content Include="Storage\fw9.pdf" />
     <Content Include="Storage\HomemadeApple-Regular.ttf">
