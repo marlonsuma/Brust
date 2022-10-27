@@ -260,7 +260,7 @@ namespace NiQ_Donor_Tracking_System
                     string toemail, body, Subject;
                     Subject = "Milk Kit Received";
                     toemail = donorRepository.Get(donorid).Email;
-                    body = "Ni-Q has moved your milk kit further into the process of testing, we have pooled your milk kit. A sample is being collected. You will be notified once testing begins";
+                    body = "Ni-Q has received your milk kit today. Your milk kit will be processed to head into testing. Ni-Q will notify you when the milk kit heads into testing.";
                     if (!string.IsNullOrEmpty(toemail) && toemail != "")
                         EMailHelper.SendEmail(toemail, body, Subject);
                 }
